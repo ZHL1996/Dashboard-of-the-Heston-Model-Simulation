@@ -58,9 +58,3 @@ Where:
   - `dash` or `streamlit` *(choose one for your GUI framework)*
   - `yfinance` *(optional for live data)*
 
-### Installation
-
-```bash
-git clone https://github.com/yourusername/heston-dashboard.git
-cd heston-dashboard
-pip install -r requirements.txt
