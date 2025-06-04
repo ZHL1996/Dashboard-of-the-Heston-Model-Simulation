@@ -19,7 +19,6 @@ This tool enables users—quant analysts, researchers, and financial engineers�
 - 📈 **Volatility Path Simulation**: Simulate variance and price paths using the Euler–Maruyama method.
 - 🎯 **Parameter Calibration**: Calibrate parameters (θ, κ, σ, ρ, v₀) using historical or market data.
 - 📉 **Option Pricing Engine**: Compute European option prices under Heston dynamics.
-- 🧩 **Implied Vol Surface**: Visualize model-based implied volatilities across strikes and maturities.
 - 📊 **Dashboard Interface**: Built using `Dash`/`Plotly` or `Streamlit` for interactive visualization.
 
 ---
